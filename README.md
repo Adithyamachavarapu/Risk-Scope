@@ -19,12 +19,9 @@ RiskScope is a Bloomberg Terminal-inspired platform for market risk analysts, pr
 ---
 
 # 📸 Application Preview
-ons.png" width="90%">
 
-<img src="images/riskmetrics.png" width="90%">
-
-
-
+<img src="1.png" width="90%">
+<img src="3.png" width="90%">
 ---
 
 # 📖 Overview
